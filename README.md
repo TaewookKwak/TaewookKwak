@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Taewook Kwak (Sam)
-- 👀 I’m interested in Software area
-- 🌱 I’m currently learning JS, React...
-- 
+
+
+# *👋 Hi, I’m Taewook Kwak (Sam)*
+
+![monophy](https://user-images.githubusercontent.com/93242268/149448651-623c5ce6-4b17-4614-8b9f-5164ad3c6c6d.gif)
+
+I'M RUNNING AND LEARNING TOWARDS FRONT-END ENGINEER!
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaewookKwak&count_bg=%23B6B23B&title_bg=%23B64040&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookkwak)](https://github.com/anuraghazra/github-readme-stats)
