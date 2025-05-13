@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-Hi, I’m Taewook Kwak(Sam) a Front-End Developer.
+Hi, I’m Taewook Kwak(Sam), a Frontend Developer.
 
  <br/>
 <br/>
@@ -35,7 +35,7 @@ Hi, I’m Taewook Kwak(Sam) a Front-End Developer.
 
   <br/>
 
-  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://samsfetechblog.site/introduce)　|　[𝖡𝗅𝗈𝗀](https://samsfetechblog.site)　|　[𝖤-𝗆𝖺𝗂𝗅](rhkrxodnr@gmail.com)
+  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://samtechblog.site/introduce)　|　[𝖡𝗅𝗈𝗀](https://samtechblog.site)　|　[𝖤-𝗆𝖺𝗂𝗅](rhkrxodnr@gmail.com)
 
   <br/>
   
